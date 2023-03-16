@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+
+table{
+    max-width: 600px;
+}
+
+.azulescuro{
+    background-color: #0D5188;
+    font-weight: bolder;
+}
+
+.azulmedio{
+    font-weight: bolder;
+    text-align: left;
+    background-color: #66C5E3;
+}
+
+.azulclaro{
+    background-color: #C7E7F3;
+}
+
+.cinza{
+    background-color: grey;
+    text-align: center;
+    
+}
+
+.fontebranca{
+    color: white;
+}
+
+.fonteazulescuro{
+    font-weight: bolder;
+    color: #0D5188;
+}
